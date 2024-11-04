@@ -22,4 +22,4 @@ export const TopBarButtonStyle = {
 };
 
 // Add company name here //
-export const CompanyName = "Kassiesbaai Cottage";
+export const CompanyName = "Company Name";
